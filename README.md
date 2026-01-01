@@ -1,2 +1,3 @@
-# ai-fullstack-task-manager
-A full-stack task management web application built with React, Node.js, PostgreSQL, deployed on Azure, with AI-powered productivity features.
+# AI Full-Stack Task Manager
+
+Learning full-stack development with React, Node.js, Azure, and AI.
